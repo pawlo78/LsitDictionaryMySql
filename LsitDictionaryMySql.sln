@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LsitDictionaryMySql", "LsitDictionaryMySql\LsitDictionaryMySql.csproj", "{45E1A607-EE07-4908-A90F-F8B31A96DEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E1A607-EE07-4908-A90F-F8B31A96DEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E1A607-EE07-4908-A90F-F8B31A96DEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E1A607-EE07-4908-A90F-F8B31A96DEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E1A607-EE07-4908-A90F-F8B31A96DEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F05BB2-CBC9-41BB-81D4-47EA6F07D0AF}
+	EndGlobalSection
+EndGlobal
